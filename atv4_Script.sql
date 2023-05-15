@@ -4,7 +4,7 @@
 
 Uma vez que o banco estiver bem estruturado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.*/
 
-/*Atividade
+/*Atividade:
 
 Crie um script e nele inclua consultas que retornem:
 
